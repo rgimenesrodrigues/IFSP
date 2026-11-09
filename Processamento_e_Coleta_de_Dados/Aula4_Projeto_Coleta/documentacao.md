@@ -86,12 +86,16 @@ Tipo com maior ataque médio: fighting.
 - Cruzar com tabela de efetividade de tipos
 - Montar ranking por função (tank, sweeper etc.)
 
-## 9. CÓDIGO
+## 9. CÓDIGO / ARQUIVOS
 - `projeto_coleta_pokemon.ipynb`
 - `pokemon_dataset.csv`
 - `pokemon_bruto.csv`
+- `pitch.mp4` — apresentação rápida do projeto (≈ 1 minuto)
 
-## 10. REFERÊNCIAS
+## 10. PITCH
+Vídeo da apresentação: [`pitch.mp4`](./pitch.mp4)
+
+## 11. REFERÊNCIAS
 - https://pokeapi.co/
 - https://docs.python-requests.org/
 - https://pandas.pydata.org/

@@ -9,7 +9,7 @@ IFSP/
 ├── D1ECD_Estatistica_para_Ciencia_de_Dados/
 │   └── A1_Estatistica_Descritiva_e_Media_Movel/
 └── Processamento_e_Coleta_de_Dados/
-    └── Aula4_Projeto_Coleta/
+    └── Aula4_Projeto_Coleta/   # notebook, CSV, docs e pitch.mp4
 ```
 
 Cada pasta de disciplina concentra os trabalhos da matéria.  
