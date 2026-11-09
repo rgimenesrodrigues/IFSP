@@ -1,0 +1,13 @@
+﻿Tema,Fonte,Método,Dificuldade
+Criptomoedas,CoinGecko API,API,Fácil
+Clima,Open-Meteo API,API,Fácil
+Países,REST Countries API,API,Fácil
+Pokémon,PokeAPI,API,Fácil
+Filmes,OMDB API,API,Médio
+Livros,Open Library API,API,Médio
+Notícias,Hacker News,Scraping,Médio
+Preços,Books to Scrape,Scraping,Médio
+Citações,Quotes to Scrape,Scraping,Fácil
+Jobs,Indeed/LinkedIn,Scraping,Difícil
+Imóveis,Zap/VivaReal,Scraping,Difícil
+Esportes,ESPN/FIFA,Scraping,Difícil
