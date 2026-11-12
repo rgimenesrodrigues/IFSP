@@ -10,7 +10,8 @@ IFSP/
 │   ├── A1_Estatistica_Descritiva_e_Media_Movel/
 │   └── A2_Teste_ANOVA/
 └── Processamento_e_Coleta_de_Dados/
-    └── Aula4_Projeto_Coleta/   # notebook, CSV, docs e pitch.mp4
+    ├── Aula4_Projeto_Coleta/
+    └── Aula5_Limpeza_e_Tratamento/
 ```
 
 Cada pasta de disciplina concentra os trabalhos da matéria.  

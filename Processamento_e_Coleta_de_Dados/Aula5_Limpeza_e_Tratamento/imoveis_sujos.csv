@@ -1,0 +1,11 @@
+id,bairro,quartos,area_m2,aluguel,condominio
+1,Centro,2,100,"R$ 2.000,00",500
+2,centro ,2,120,"R$ 2.200,00",500
+3,Centro,dois,,"R$ 1.800,00",450
+4,Jardins,3,150,"R$ 3.500,00",
+5,jardins,3,150,"R$ 3.500,00",800
+6,Vila Mariana,1,80,"R$ 1.500,00",300
+7,vila mariana,1,80,"R$ 1.500,00",300
+8,Centro,2,100,"R$ 2.000,00",500
+9,Jardins,3,150,"R$ 3.500,00",800
+10,Vila Mariana,1,80,"R$ 1.500,00",300
