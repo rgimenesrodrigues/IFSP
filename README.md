@@ -8,7 +8,8 @@ Repositório com os trabalhos do curso, organizados por disciplina.
 IFSP/
 ├── D1ECD_Estatistica_para_Ciencia_de_Dados/
 │   ├── A1_Estatistica_Descritiva_e_Media_Movel/
-│   └── A2_Teste_ANOVA/
+│   ├── A2_Teste_ANOVA/
+│   └── A3_Regressao_Linear_e_Correlacao/
 └── Processamento_e_Coleta_de_Dados/
     ├── Aula4_Projeto_Coleta/
     └── Aula5_Limpeza_e_Tratamento/
