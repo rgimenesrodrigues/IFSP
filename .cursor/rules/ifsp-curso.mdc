@@ -1,0 +1,24 @@
+---
+description: Convenções do repositório IFSP (trabalhos do curso, tom humano, entregas)
+alwaysApply: true
+---
+
+# IFSP — Especialização em Ciência de Dados
+
+## Organização
+- Uma pasta por disciplina; dentro dela, uma pasta por trabalho/aula.
+- Acompanhamento do chat/prompts em `Projeto_Cursor_IFSP/`.
+
+## Tom
+- Entregas devem parecer feitas por aluno: texto direto, sem cara de IA.
+- Não deixar scripts auxiliares (`gerar_*.py`, `criar_entrega.py`, `_build_*.py`) na entrega nem no Git de entrega.
+
+## Nomes
+- D1ECD (Kakimoto): `ED1ECD_A#_Rodrigo_Gimenes_Rodrigues.(pdf|ipynb)`
+- Processamento e Coleta (Danilo): nomes simples (`Exercicios_AulaN.ipynb`, etc.)
+
+## Aluno
+- Rodrigo Gimenes Rodrigues · Matrícula CP3071782 · Campus Campinas · EAD · 2026/2
+
+## Referência
+Ver `Projeto_Cursor_IFSP/README.md`, `CONVENCOES.md` e `PROMPTS.md`.

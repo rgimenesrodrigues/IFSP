@@ -1,0 +1,3 @@
+Create a new folder IFSP in the folder repositories, where i can have multiples sub-folders related to the course
+The first folder will be related to this pdf. Read carrefully, execute the tasks the ways is stated
+C:\Users\rodri\Downloads\D1ECD_T1.pdf

@@ -1,0 +1,2 @@
+Pode me explicar porque essa formula não está funcionando no excel ? Deveria ficar verde se acertei e vermelho se não acertei
+=SE(E(E4<>"";'Respuestas Test'!E4<>"";E4='Respuestas Test'!E4);"OK";SE(OU(E4="";'Respuestas Test'!E4="");"";"FAIL"))

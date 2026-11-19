@@ -2,10 +2,17 @@
 
 Repositório com os trabalhos do curso, organizados por disciplina.
 
+## Acompanhamento do Cursor
+
+Tudo que discutimos no chat (estrutura, entregáveis, convenções e **todos os prompts**) está em:
+
+**[`Projeto_Cursor_IFSP/`](./Projeto_Cursor_IFSP/)**
+
 ## Estrutura
 
 ```text
 IFSP/
+├── Projeto_Cursor_IFSP/
 ├── D1ECD_Estatistica_para_Ciencia_de_Dados/
 │   ├── A1_Estatistica_Descritiva_e_Media_Movel/
 │   ├── A2_Teste_ANOVA/
@@ -17,7 +24,7 @@ IFSP/
 ```
 
 Cada pasta de disciplina concentra os trabalhos da matéria.  
-Dentro de cada trabalho ficam notebook, dataset, documentação e enunciado.
+Dentro de cada trabalho ficam notebook, dataset, documentação e materiais da entrega.
 
 ## Autor
 

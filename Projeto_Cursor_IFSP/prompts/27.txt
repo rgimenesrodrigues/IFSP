@@ -1,0 +1,2 @@
+Mais um exercício C:\Users\rodri\Downloads\D1ECD_T2.pdf 
+Mesmo esquema, faz numa pasta, pode subir no git, só não sobe o que for seu, tipo aquele script pra criar o projeto. E lembra que tem que parecer humano

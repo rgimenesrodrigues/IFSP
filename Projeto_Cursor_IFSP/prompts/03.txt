@@ -1,0 +1,9 @@
+Analyze if these changes make sense ?
+Corrigir o salvamento do gráfico no notebook
+
+O código usa plt.savefig('figuras/media_movel_transacoes.png', dpi=150). Se a pasta figuras não existir, ocorrerá um erro ao executar o notebook do zero. No ambiente que examinei, essa pasta não existe.
+
+Você pode remover essa linha, já que o gráfico aparece no próprio notebook, ou criar a pasta antes de salvar.
+Melhorar um detalhe da explicação estatística
+
+Em vez de afirmar que a média maior que a mediana comprova assimetria à direita, prefira dizer que sugere uma leve assimetria positiva. É uma formulação estatisticamente mais cuidadosa.

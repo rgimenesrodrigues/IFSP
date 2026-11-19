@@ -1,0 +1,1 @@
+Quais arquivos eu preciso enviar ? E não sobe pro Git o que for seu... Tem que parecer humano

@@ -1,0 +1,2 @@
+Ok, agora preciso fazer esse exercício
+C:\Users\rodri\Downloads\Aula 5.2_ Limpeza e Tratamento de Dados com Pandas.pdf C:\Users\rodri\Downloads\imoveis_sujos.csv C:\Users\rodri\Downloads\Exercícios_Aula5.ipynb
