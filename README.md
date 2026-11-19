@@ -12,7 +12,8 @@ IFSP/
 │   └── A3_Regressao_Linear_e_Correlacao/
 └── Processamento_e_Coleta_de_Dados/
     ├── Aula4_Projeto_Coleta/
-    └── Aula5_Limpeza_e_Tratamento/
+    ├── Aula5_Limpeza_e_Tratamento/
+    └── Aula6_Estruturacao_e_Codificacao/
 ```
 
 Cada pasta de disciplina concentra os trabalhos da matéria.  
